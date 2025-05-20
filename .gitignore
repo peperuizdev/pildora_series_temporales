@@ -1,0 +1,17 @@
+# Entorno virtual
+venv/
+.env/
+.env.bak/
+.venv/
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
