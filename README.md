@@ -17,9 +17,8 @@ Bienvenido/a al repositorio de **Series Temporales**, una píldora formativa par
    - ⚙️ Preprocesamiento y estacionariedad.  
 
 ### 2. **📜 Modelos Clásicos**  
-   - 📅 Medias móviles y regresión lineal.  
-   - 🧮 ARIMA y SARIMA: predicción con componentes estacionales.  
-   - 📏 Evaluación de modelos (MAE, RMSE).  
+   - 📅 Medias móviles y Suavizado Estacional.  
+   - 🧮 ARIMA y SARIMA: predicción con componentes estacionales.    
    - 🌡️ Caso práctico: Predicción de temperaturas.  
 
 ### 3. **🤖 Modelos Avanzados con IA**  
